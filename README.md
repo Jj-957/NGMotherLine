@@ -231,7 +231,7 @@ Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICEN
 
 ## 📞 Suporte
 
-- 📧 Email: team@ngmotherline.com
+- 📧 Email: marciojno957@gmail.com
 - 🐛 Issues: [GitHub Issues](https://github.com/ngmotherline/ngmotherline/issues)
 - 📖 Wiki: [Documentation](https://github.com/ngmotherline/ngmotherline/wiki)
 
