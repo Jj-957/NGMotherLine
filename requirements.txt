@@ -1,0 +1,41 @@
+# Core ASR and Translation
+faster-whisper>=0.10.0
+torch>=2.0.0
+torchaudio>=2.0.0
+transformers>=4.30.0
+ctranslate2>=3.20.0
+
+# Audio/Video Processing
+ffmpeg-python>=0.2.0
+librosa>=0.10.0
+soundfile>=0.12.0
+webrtcvad>=2.0.10
+
+# VAD (Voice Activity Detection)
+silero-vad>=4.0.0
+
+# Translation
+argostranslate>=1.9.0
+deep-translator>=1.11.0
+
+# Subtitle Generation
+srt>=3.5.0
+pycaption>=2.2.0
+
+# GUI Framework
+PySide6>=6.6.0
+
+# Utilities
+numpy>=1.24.0
+scipy>=1.11.0
+requests>=2.31.0
+pathlib>=1.0.1
+python-dotenv>=1.0.0
+click>=8.1.0
+tqdm>=4.65.0
+psutil>=5.9.0
+
+# Development
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0 

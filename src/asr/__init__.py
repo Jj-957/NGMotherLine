@@ -1,0 +1,1 @@
+# Módulo de reconhecimento de fala (ASR) 
