@@ -198,9 +198,9 @@ python main.py video.mp4 --mode fast --device cpu --threads 2
 - [ ] Testes unitários
 
 ### Sprint 3 (Planejado)
-- [ ] Interface gráfica PySide6
-- [ ] Empacotamento PyInstaller
-- [ ] Instalador Windows
+- [ ] Interface gráfica
+- [ ] Empacotamento
+- [ ] Instalador
 
 ### Sprint 4 (Planejado)
 - [ ] Otimizações de performance
@@ -219,7 +219,7 @@ Contribuições são bem-vindas! Por favor:
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes.
+Este projeto não possui licença alguma, faça bom uso
 
 ## 🙏 Agradecimentos
 
